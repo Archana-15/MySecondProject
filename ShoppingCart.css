@@ -1,0 +1,30 @@
+.price {
+  width: 300px;
+  border: 15px solid yellow;
+  padding: 50px;
+  margin: 20px;
+  float: right;
+  color: Red;
+  font-variant-numeric: slashed-zero;
+  font-size: 80px;
+}
+.description {
+ height: 400px;
+  width: 30%;
+  float: right;
+ 
+}
+.cart{
+  width: 5%x;
+  border: 10px solid green;
+  padding: 8px;
+  margin: 20px;
+  float: right;
+}
+.buynow{
+  width: 5%;
+  border: 10px solid red;
+  padding: 8px;
+  margin: 20px;
+  float: right;
+}
